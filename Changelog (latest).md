@@ -1,4 +1,4 @@
-Version 3.5
+Version 3.5.1
 
 
 - Windows10 UltraLite Edition Vers. 1.5 released 
@@ -13,7 +13,7 @@ Version 3.5
 
 ​
 
-- Aeros Updater updated to Version 3.0
+- Aeros Updater updated to Version 3.1 [dev]
 
 ​
 
