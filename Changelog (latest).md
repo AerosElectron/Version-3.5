@@ -13,7 +13,7 @@ Version 3.5.1
 
 ​
 
-- Aeros Updater updated to Version 3.1 [dev]
+- Aeros Updater updated to Version 3.2 [dev]
 
 ​
 
