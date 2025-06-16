@@ -33,7 +33,7 @@ Version 3.5.1
 
 ​​
 
-- UltraLite Features updated to Version 3.5
+- UltraLite Features updated to Version 3.5.2
 
 ​
 
