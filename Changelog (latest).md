@@ -17,7 +17,7 @@ Aeros Player updated to Version 2.8
 
 ​
 
-Aeros Updater Lite updated to Version 3.0 
+Aeros Updater Lite updated to Version 3.1
 
 ​​​​
 
@@ -25,7 +25,7 @@ Add Ghost Theme Vers.1.1 to Win11 Gaming Edition and Win11 UltraLite Edition​�
 
 ​​
 
-UltraLite Features updated to Version 3.6
+UltraLite Features Updater updated to Version 3.6.3
 
 ​
 
