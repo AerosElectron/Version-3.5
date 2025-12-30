@@ -1,37 +1,33 @@
-Version 3.6
+Version 4.3
 
 
-Windows11 UltraLite Edition Vers. 2.1 released
+Windows10 UltraLite Edition Vers. 2.1 released
 
 ​​
 
-Windows 11 Gaming Edition Vers.3.6 released 
+Windows 10 Gaming Edition Vers. 4.3 released 
 
 ​
 
-Aeros Updater updated to Version 3.5 
+Aeros Updater updated to Version 3.8 
 
 ​
 
-Aeros Player updated to Version 2.8
+ Aeros Downloader updated to Version 1.5
 
 ​
 
-Aeros Updater Lite updated to Version 3.1
+Aeros Welcome updated to Version 1.5
+
+​
+
+Aeros Updater Lite updated to Version 3.2
 
 ​​​​
 
-Add Ghost Theme Vers.1.1 to Win11 Gaming Edition and Win11 UltraLite Edition​​​​
+ Ghost Theme updated to Version 1.5
 
 ​​
 
-UltraLite Features Updater updated to Version 3.6.3
-
-​
-
-Aeros Bootlogo with HackBGRT updated to stable Vers. 2.5.2
-
-
-
-Torrent support for downloading Win11
+UltraLite Features updated to Version 4.3
 ​
