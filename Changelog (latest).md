@@ -1,4 +1,4 @@
-Version 4.3.1
+Version 4.3.2
 
 
 Windows10 UltraLite Edition Vers. 2.1 released
