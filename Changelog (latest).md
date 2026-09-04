@@ -9,7 +9,7 @@ Windows 10 Gaming Edition Vers. 4.3 released
 
 ​
 
-Aeros Updater updated to Version 3.8.1 
+Aeros Updater updated to Version 3.8.2
 
 ​
 
@@ -23,11 +23,7 @@ Aeros Welcome updated to Version 1.5
 
 Aeros Updater Lite updated to Version 3.2.1
 
-​​​​
-
- Ghost Theme updated to Version 1.5
-
-​​
+​​​
 
 UltraLite Features updated to Version 4.3.1
 ​
